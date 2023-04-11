@@ -98,7 +98,7 @@ function blog() {
 }
 ```
 
-Push blog into Github
+# Push blog into Github
 
 ```shell
 function pushblog() {
